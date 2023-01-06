@@ -1,0 +1,32 @@
+--------Bootstrap------
+=================
+.container
+     max-width: 1170px;
+.container fluid
+     max-width: 100% - 30px
+
+.row
+=======
+
+Breaking point (Column)
+=========
+min width      max width
+-----------------
+
+lg: Larges Device (Laptop/Desktop)
+#col-lg
+1200px >=.........
+
+md: Medium Device (laptop/Desktop)
+.col-md
+992px     to    1199px
+
+sm : Small Device (Tablet)z
+=====
+.col-sm
+768px to 991px
+
+xs : Extra Small Device(Mobile)
+======
+.col-xs
+360px tp 767px

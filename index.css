@@ -4,6 +4,24 @@
     padding: 0;
 }
 h1{
-    color: blueviolet;
-    
+    color: white;
+    background-color: indigo;
+}
+h2{
+    color: white;
+    background-color: indigo;
+}
+h3{
+    color: white;
+    background-color: indigo;
+}
+body
+{
+    background: purple;
+}
+.my-column{
+    background: rgb(0, 0, 0);
+    text-align: center;
+    min-height: 100px;
+    margin-bottom: 30px;
 }
